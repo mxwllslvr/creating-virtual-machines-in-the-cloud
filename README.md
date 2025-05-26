@@ -18,18 +18,19 @@ This guide provides a structured procedure for provisioning a Windows and Linux 
 - macOS Sequoia<br/>
 - Windows 10 Pro (22H2)<br/>
 - Ubuntu Server 22.04 LTS<br/>
-<br/><br/>
+<br/>
 <h2>Procedure Overview</h2>
 - Step 1: Establish a resource group in Azure<br/>
 - Step 2: Provision a Windows VM<br/>
 - Step 3: Provision a Linux VM<br/>
 <br/><br/>
-<h2>Detailed Instructions</h2>
 
-<h3>Step 1: Establishing a resource group in Azure.</h3>
+<h1>Detailed Instructions</h1>
+
+<h2>Step 1: Establishing a resource group in Azure.</h2>
 
 <p>
-- Access the Azure Portal: Upon signing into your Azure account, you will be directed to the Azure Portal’s Quickstart Center.
+Access the Azure Portal: Upon signing into your Azure account, you will be directed to the Azure Portal’s Quickstart Center.
 </p>
 
 <p>
@@ -37,7 +38,7 @@ This guide provides a structured procedure for provisioning a Windows and Linux 
 </p>
 
 <p>
-- Locate Resource Groups: Utilize the search bar at the top of the portal. Enter “resource” and select Resource Groups from the suggested options.
+Locate Resource Groups: Utilize the search bar at the top of the portal. Enter “resource” and select Resource Groups from the suggested options.
 </p>
 <br/><br/>
 
