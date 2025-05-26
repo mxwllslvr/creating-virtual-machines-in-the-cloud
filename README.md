@@ -1,58 +1,54 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ![Github Banner 1 - Creating VMs](https://github.com/user-attachments/assets/06bc162a-3c8c-442b-8cc9-87d963ba377d)
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h1>Creating a Windows and Linux Virtual Machine in the Cloud (Microsoft Azure)</h1>
-In this walkthrough, we will create a Windows and Linux virtual machine (VM) in Azure. This skill set will be vital and is a key component to all of the IT projects listed. <br/>
+In this walkthrough, we will create a Windows and Linux virtual machine (VM) in Azure. This skill set will be vital and is a key component to all of the IT projects listed. <br/><br/>
 
 <h2>🚨Prerequisites🚨</h2>
-
-- <a href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&OCID=AIDcmmfq865whp_SEM__k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&gad_source=1&gbraid=0AAAAADcJh_uVoYZIZMJRJFQ3v8k-BGmp2&gclid=Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB)">An active Microsoft Azure account</a> 
-
+- <a href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&OCID=AIDcmmfq865whp_SEM__k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&gad_source=1&gbraid=0AAAAADcJh_uVoYZIZMJRJFQ3v8k-BGmp2&gclid=Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB)">An active Microsoft Azure account</a>
+<br/><br/>
 <h2>Technologies Utilized</h2>
-
 - Microsoft Azure (Compute/Virtual Machines)
-
+<br/><br/>
 <h2>Operating Systems</h2>
-
 - macOS Sequoia
 - Windows 10 Pro (22H2)
 - Ubuntu Server 22.04 LTS
-
+<br/><br/>
 <h2>Procedure Overview</h2>
-
 - Step 1: Establish a resource group in Azure
 - Step 2: Provision a Windows VM
 - Step 3: Provision a Linux VM
-
+<br/><br/>
 <h2>Detailed Instructions</h2>
 
-<h3> Step 1: Establishing a resource group in Azure. </h3>
+<h3>Step 1: Establishing a resource group in Azure.</h3>
 
 <p>
 - Access the Azure Portal: Upon signing into your Azure account, you will be directed to the Azure Portal’s Quickstart Center.
 </p>
-<br/>
 
 <p>
 <img width="750" alt="CVM RG2" src="https://github.com/user-attachments/assets/856076ee-bfde-474d-b5ec-5ad7a2f300ab"/>
 </p>
+
 <p>
 - Locate Resource Groups: Utilize the search bar at the top of the portal. Enter “resource” and select Resource Groups from the suggested options.
 </p>
-
-<br />
-
+<br/><br/>
 
 <p>
 <img width="750" alt="CVM RG3" src="https://github.com/user-attachments/assets/358a46b1-bdc8-48d7-898f-1a592f724b7b"/>
 </p>
 <p> - Initiate Resource Group Creation: If no resource groups are listed, select the + Create button.</p>
-<br/>
-
+<br/><br/>
 <p>
 <img width="750" alt="CVM RG4" src="https://github.com/user-attachments/assets/208466a1-6197-4212-a517-52465369b034" />
 </p>
-<p>
- 
+<p> 
 Configure Resource Group Settings:
 
 Subscription: Verify that the appropriate subscription is selected from the dropdown menu.
@@ -63,16 +59,14 @@ Region: Select (US) East US 2. Consistency in region selection across resources 
 
 Proceed by selecting Next, then Review + Create.
 </p>
-<br />
-
-
+<br/>
+<br/>
 <p>
 <img width="750" alt="CVM RG5" src="https://github.com/user-attachments/assets/4aaa38db-926d-4470-acd0-ba921397c158" />
 </p>
 <p>
 Finalize Creation: Confirm the Resource Group details, including name and region, and select Create. Upon completion, you will be redirected to the Resource Groups section, where the new group will be visible.
 </p>
-<br />
 
 <h3> Step 2: Provisioning a Windows Virtual Machine in Azure </h3><p>
 <img width="750" alt="CVM 1" src="https://github.com/user-attachments/assets/ad54db79-1e24-464e-ba0d-368025a38f60"/>
