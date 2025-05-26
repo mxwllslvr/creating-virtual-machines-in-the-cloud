@@ -4,8 +4,9 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1>Creating a Windows and Linux Virtual Machine in the Cloud (Microsoft Azure)</h1>
-In this walkthrough, we will create a Windows and Linux virtual machine (VM) in Azure. This skill set will be vital and is a key component to all of the IT projects listed. <br/><br/>
+<h1>Deploying Windows and Linux Virtual Machines in Microsoft Azure</h1>
+
+This guide provides a structured procedure for provisioning a Windows and Linux virtual machine (VM) within Microsoft Azure. Mastery of this process is essential for professionals managing cloud-based IT infrastructure. <br/><br/>
 
 <h2>🚨Prerequisites🚨</h2>
 - <a href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&OCID=AIDcmmfq865whp_SEM__k_Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB_k_&gad_source=1&gbraid=0AAAAADcJh_uVoYZIZMJRJFQ3v8k-BGmp2&gclid=Cj0KCQjwzYLABhD4ARIsALySuCTvMpKHbOeSo9lv81A8vCg1XGDNwpOIuOsD2o8pmLnyl7dVku-Yn3IaApK-EALw_wcB)">An active Microsoft Azure account</a>
@@ -14,14 +15,14 @@ In this walkthrough, we will create a Windows and Linux virtual machine (VM) in 
 - Microsoft Azure (Compute/Virtual Machines)
 <br/><br/>
 <h2>Operating Systems</h2>
-- macOS Sequoia
-- Windows 10 Pro (22H2)
-- Ubuntu Server 22.04 LTS
+- macOS Sequoia<br/>
+- Windows 10 Pro (22H2)<br/>
+- Ubuntu Server 22.04 LTS<br/>
 <br/><br/>
 <h2>Procedure Overview</h2>
-- Step 1: Establish a resource group in Azure
-- Step 2: Provision a Windows VM
-- Step 3: Provision a Linux VM
+- Step 1: Establish a resource group in Azure<br/>
+- Step 2: Provision a Windows VM<br/>
+- Step 3: Provision a Linux VM<br/>
 <br/><br/>
 <h2>Detailed Instructions</h2>
 
