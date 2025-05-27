@@ -60,7 +60,7 @@ Name: Assign a descriptive name to the Resource Group (e.g., “CloudInfraRG”)
 
 Region: Select (US) East US 2. Consistency in region selection across resources is critical to prevent configuration conflicts.
 
-Proceed by pressing Next button until you get to section "Review + Create."
+Proceed by pressing the Next button until you get to the section "Review + Create."
 </p>
 <br/>
 <br/>
@@ -115,7 +115,7 @@ VM Name: Enter “windows-vm”.
 
 Region: Select (US) East US 2 to align with the Resource Group.
 
-Image: Select Windows 10 Pro, version 22H2 as the operating system. Avoid selecting Windows Server images.
+Image: Select Windows 10 Pro, version 22H2, as the operating system. Avoid selecting Windows Server images.
 </p>
 <br />
 
@@ -247,7 +247,7 @@ Monitor Deployment: Deployment will take several minutes. Upon completion, the m
 </p>
 
 <p>
-Review VMs: Use the search bar to return to Virtual Machines. Both “windows-vm” and “linux-vm” will be listed, displaying details such as esource Group, region, operating system, and Public IP addresses.
+Review VMs: Use the search bar to return to Virtual Machines. Both “Windows-VM” and “Linux-VM” will be listed, displaying details such as source group, region, operating system, and public IP addresses.
 
 Note: The Start, Stop, and Restart options in the Virtual Machines section allow you to manage VM states. To optimize costs, stop VMs when not in use. For additional practice, you may delete the Resource Group and repeat the process.  
 </p>
