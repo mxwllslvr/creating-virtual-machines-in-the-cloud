@@ -254,7 +254,7 @@ Note: The Start, Stop, and Restart options in the Virtual Machines section allow
 <br/><br/><br/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h2>✅ Conclusion</h2>
+<h2>Conclusion</h2>
 
 <p>
 This procedure successfully establishes a Resource Group, a Windows VM running Windows 10 Pro, and a Linux VM running Ubuntu Server 22.04 LTS in Microsoft Azure. These virtualized environments provide scalable, cost-efficient resources for IT operations, eliminating the need for physical hardware. Enterprises leverage such cloud solutions for their flexibility and economic benefits. Ensure VMs are stopped when idle to manage subscription costs. This concludes the deployment process.
