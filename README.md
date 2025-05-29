@@ -15,7 +15,7 @@ This guide provides a structured procedure for provisioning a Windows and Linux 
 - Microsoft Azure (Compute/Virtual Machines)
 <br/><br/>
 <h2>Operating Systems</h2>
-- macOS Sequoia<br/>
+- Windows 11 Home (24H2)<br/>
 - Windows 10 Pro (22H2)<br/>
 - Ubuntu Server 22.04 LTS<br/>
 <br/>
