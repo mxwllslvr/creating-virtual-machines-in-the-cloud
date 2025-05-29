@@ -27,7 +27,7 @@ This guide provides a structured procedure for provisioning a Windows and Linux 
 
 <h1>Detailed Instructions</h1>
 
-<h2>Step 1: Establishing a resource group in Azure.</h2>
+<h2>Step 1: Establish a resource group in Azure</h2>
 
 <p>
 Access the Azure Portal: Upon signing into your Azure account, you will be directed to the Azure Portal’s Quickstart Center.
@@ -75,7 +75,7 @@ Finalize Creation: Confirm the Resource Group details, including name and region
 
 <br/><br/>
 
-<h2>Step 2: Provisioning a Windows Virtual Machine in Azure</h2>
+<h2>Step 2: Provision a Windows VM</h2>
 
 <p>
 <img width="750" alt="CVM 1" src="https://github.com/user-attachments/assets/ad54db79-1e24-464e-ba0d-368025a38f60"/>
@@ -182,7 +182,7 @@ Monitor Deployment: Deployment may take several minutes. Upon completion, the me
 </p>
 <br />
 
-<h2> Step 3: Create a Linux VM in Azure </h2>
+<h2> Step 3: Provision a Linux VM</h2>
 
 <p>
 <img width="750" alt="CVM 12" src="https://github.com/user-attachments/assets/5184be73-53a7-4704-a956-79d8e07ebda0"/>
