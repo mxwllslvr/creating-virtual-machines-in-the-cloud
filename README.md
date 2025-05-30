@@ -174,14 +174,15 @@ Deployment will take several minutes. Upon completion, the message "Your deploym
 Use the search bar to return to **Virtual Machines**. Both "Windows-VM" and "Linux-VM" will be listed, displaying details such as resource group, region, operating system, and public IP addresses.
 
 **Note**: The Start, Stop, and Restart options in the Virtual Machines section allow you to manage VM states. To optimize costs, stop VMs when not in use. For additional practice, you may delete the Resource Group and repeat the process.
-
----
-
 <br/><br/>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<br/>
 
 <div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdxOXFrZDl6YmUwdGgxamhpYzRuNWFpbnV5bWRyc2lsYXlsZHNzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1AsI389lnxkvQHAc/giphy.gif" width="100%"> </div>
 
-<br/><br/>
+<br/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -198,9 +199,7 @@ Enterprises leverage such cloud solutions for their flexibility and economic ben
 
 This concludes the deployment process.
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<br/><br/>
+---
 
 <div align="center">
 
