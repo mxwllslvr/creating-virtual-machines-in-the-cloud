@@ -4,7 +4,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# Deploying Windows and Linux Virtual Machines in Microsoft Azure
+# Creating Virtual Machines in the Cloud
 
 This guide provides a structured procedure for provisioning Windows and Linux virtual machines (VMs) within Microsoft Azure. Mastery of this process is essential for professionals managing cloud-based IT infrastructure.
 
